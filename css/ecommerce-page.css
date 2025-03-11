@@ -37,9 +37,11 @@ section {
 }
 
 .header-content {
+  display: flex;
 }
 
 .logo-search {
+  display: flex;
 }
 
 .logo {
@@ -71,6 +73,7 @@ section {
 }
 
 .options {
+  display: flex;
 }
 
 .option {
