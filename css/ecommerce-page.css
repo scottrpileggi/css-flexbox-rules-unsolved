@@ -247,10 +247,11 @@ i.fa-th-list {
 .lines.products {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 40px;
 }
 
 .lines .product {
+  width: 100%;
   padding: 20px;
   display: flex;
   align-items: center;
@@ -263,26 +264,21 @@ i.fa-th-list {
 
 .lines .product-data {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+  padding-left: 50px;
 }
 
 .lines .product-info {
-  width: 425px;
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  border-right: 1px solid #8d8ba5;
-  height: 200px;
+  gap: 25px;
   justify-content: center;
-  padding: 0 0px 0 44px;
 }
 
 .lines .product-action {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   gap: 25px;
-  width: 235px;
 }
 
 /* LINES-ACTION VIEW */
