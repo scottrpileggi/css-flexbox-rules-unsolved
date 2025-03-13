@@ -12,6 +12,8 @@ body {
 
 .content {
   padding: 30px;
+  display: flex;
+  gap: 40px;
 }
 
 h2 {
@@ -36,6 +38,9 @@ form {
 
 #sign-in,
 #sign-up {
+  display: flex;
+    flex-direction: column;
+    gap: 25px;
   width: 100%;
 }
 
@@ -82,4 +87,31 @@ input[type="submit"]:hover {
 
 .form select {
   height: 30px;
+}
+
+/* ADDITIONAL SIGN-IN STYLES START HERE */
+
+#sign-in-form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.form-header {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-input-control {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-submit-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }

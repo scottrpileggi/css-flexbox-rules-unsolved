@@ -40,11 +40,11 @@ This assignment should prove that a student is able to:
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [x] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] The project's file/folder structure should NOT be edited!
-- [ ] The ecommerce-page.html file should NOT be edited!
+- [x] The ecommerce-page.html file should NOT be edited!
 - [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
+- [x] The code MUST be formatted with Prettier.
 - [ ] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
 
@@ -126,14 +126,14 @@ For the "Sign Up Form"
 
 Acceptance criteria:
 
-- [ ] Edit the following files:
-  - [ ] css: `/css/ecommerce-page.css`
-- [ ] Ensure the layout closely mirrors the mockup.
-- [ ] Refrain from using the margin CSS rule to specify distances between elements.
-- [ ] Positioning is prohibited.
-- [ ] When switching between views, display a different product list view.
-- [ ] The HTML file should remain unchanged; no updates or modifications are allowed.
-- [ ] The permitted list of CSS rules to add to the styles file is as follows:
+- [x] Edit the following files:
+  - [x] css: `/css/ecommerce-page.css`
+- [x] Ensure the layout closely mirrors the mockup.
+- [x] Refrain from using the margin CSS rule to specify distances between elements.
+- [x] Positioning is prohibited.
+- [x] When switching between views, display a different product list view.
+- [x] The HTML file should remain unchanged; no updates or modifications are allowed.
+- [x] The permitted list of CSS rules to add to the styles file is as follows:
   - `border-*`
   - `padding-*`
   - width
