@@ -80,6 +80,7 @@ section {
 .options {
   display: flex;
   padding-left: 175px;
+  gap: 10px;
 }
 
 .option {
@@ -101,6 +102,8 @@ section {
 .categories {
   background-color: #2b2d36;
   padding-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .category {
